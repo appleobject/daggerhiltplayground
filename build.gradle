@@ -5,6 +5,7 @@ buildscript {
         hilt_version = "2.28-alpha"
         hilt_viewmodels = "1.0.0-alpha02"
         retrofit_version = "2.9.0"
+        room_version = "2.2.5"
     }
     repositories {
         google()
