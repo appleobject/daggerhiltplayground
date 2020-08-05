@@ -26,4 +26,8 @@ constructor(): EntityMapper<BlogNetworkEntity, Blog>{
             category = domainModel.category
         )
     }
+
+    fun mapFromEntityList(entities: List<BlogNetworkEntity>): List<Blog>{
+        return entities.map { mapFromEntity(it) }
+    }
 }
