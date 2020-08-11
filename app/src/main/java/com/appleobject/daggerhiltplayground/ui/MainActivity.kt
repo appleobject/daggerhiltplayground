@@ -1,7 +1,8 @@
-package com.appleobject.daggerhiltplayground
+package com.appleobject.daggerhiltplayground.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.appleobject.daggerhiltplayground.R
 import dagger.hilt.android.AndroidEntryPoint
 
 
