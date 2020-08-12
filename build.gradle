@@ -6,6 +6,8 @@ buildscript {
         hilt_viewmodels = "1.0.0-alpha02"
         retrofit_version = "2.9.0"
         room_version = "2.2.5"
+        fragment_ktx = "1.2.5"
+        livedata_version = "2.2.0"
     }
     repositories {
         google()
