@@ -13,7 +13,7 @@ Hilt is built on top of the popular DI library Dagger to benefit from the compil
 - Repository pattern
 - MVVM / MVI
 
-[Data Source](https://open-api.xyz/) 
+Data Source [click here](https://open-api.xyz/) 
 
 ### Screenshot 
 
